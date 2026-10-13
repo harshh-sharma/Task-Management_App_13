@@ -1,6 +1,15 @@
 # Task Manangement App
 This Task Management App where user create , update , delete and show there all task 
 
+- To Install the package just run the following command
+  npm i express bcrypt jsonwebtoken mongoose cors dotenv (dependencies)
+  npm i -D nodemon (dev dependencies)
+
+- To run just write
+  npm run dev
+ 
+
+
 # User
 -   For this I design user authentication with jwt 
 -   user model schema - name, email and password
